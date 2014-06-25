@@ -1,4 +1,4 @@
-// Stik-resource - Version: 0.1.0 | From: 25-6-2014
+// Stik-resource - Version: 0.1.1 | From: 25-6-2014
 (function( stik, vej ){
   stik.boundary({
     as: "$resource",
