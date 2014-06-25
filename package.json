@@ -1,6 +1,6 @@
 {
   "name": "stik-resource",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Declarative Ajax requests for Stik",
   "main": "dist/stik-resource.js",
   "scripts": {
