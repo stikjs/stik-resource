@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/stikjs/stik-resource",
   "dependencies": {
-    "vej": "^0.1.0"
+    "vej": "^0.2.0"
   },
   "devDependencies": {
     "stik-labs.js": "^0.2.0",
